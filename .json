@@ -1,1 +1,17 @@
-
+{
+“Thing1" : 42,
+“Thing2" : “Description",
+“Thing3" : null,
+“Thing4" : false,
+“Thing5" : true,
+“Thing6" : [
+1,
+2,
+3,
+4
+],
+“Thing7" : {
+“Subthing1" : “Turtle",
+“Subthing3" : 77
+}
+}
